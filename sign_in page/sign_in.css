@@ -1,0 +1,93 @@
+body{
+  background-image: url("s.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.93;
+}
+#textarea{
+  width:60%;
+   padding: 10px 10px;
+  margin:0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 12px; 
+}
+input[type=text], select {
+  width: 60%;
+  padding: 10px 10px;
+  margin:0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 12px; 
+}
+input[type=date], select {
+  width: 60%;
+  padding: 10px 10px;
+  margin:0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 12px; 
+}
+input[type=password], select {
+  width: 60%;
+  padding: 10px 10px;
+  margin:0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 12px; 
+}
+#city{
+  width: 60%;
+  padding: 10px 10px;
+  margin:0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 12px;
+}
+#state{
+  width: 60%;
+  padding: 10px 10px;
+  margin:0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 12px;
+}
+h1{
+  text-align: center;
+}
+#a23{
+  width: 30%;
+  background-color: rgb(135, 206, 250);
+  color: black;
+  padding: 10px 10px;
+  margin: 0px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+p.a{
+	color : white;
+	font-size: 20px;
+}
+#box{
+  width: 800px;
+	/*border:1px solid black;*/
+  border-spacing: 5px;
+	margin-left: 28%;
+  text-align: center;
+  padding: 5px;
+  background-color: white;
+}
